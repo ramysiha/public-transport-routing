@@ -19,6 +19,8 @@ different stations and then to be able to query the "route" from one station to 
 
 ### Building the application
 
+A Compatible Java 1.8 JDK needs to be present on the system.
+
 Application uses Gradle as it's build management system. 
 
 ` ./gradlew clean build `
